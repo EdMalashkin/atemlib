@@ -44,8 +44,10 @@
     <Compile Include="Callbacks\UploadLock.cs" />
     <Compile Include="ConsoleUtils.cs" />
     <Compile Include="Log.cs" />
+    <Compile Include="MediaPlayer.cs" />
     <Compile Include="MediaStill.cs" />
     <Compile Include="Switcher.cs" />
+    <Compile Include="SwitcherEffects.cs" />
     <Compile Include="Upload.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SwitcherLibException.cs" />
